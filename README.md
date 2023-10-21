@@ -20,6 +20,9 @@ Para ejecutar la aplicación, asegúrate de tener Streamlit instalado y luego ej
 
 python -m streamlit run main.py --server.port 80
 
+puedes ver una ejecución en azure con este link
+https://ventasjuegos.azurewebsites.net
+
 ## Estructura del Código
 
 El código del proyecto está organizado de la siguiente manera:
